@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Pernaol 👋</h1>
+<p align="center">
+  Full-Stack Developer | Software Engineer | Problem Solver
+</p>
 
-<!--
-**Abdullah786Siddiqui/Abdullah786Siddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: **Production-ready web apps using TypeScript & React**
+- 🌱 Exploring: **AI integrations, DevOps workflows, and performance optimization**
+- 🛠️ Building: Tools that make life easier for developers and end-users alike
+- 🧠 Always learning: System design, distributed architecture, and scalable APIs
+- ⚡ Fun fact: I love automating boring stuff and mentoring junior devs
+
+---
+
+### 🧰 Tech Stack
+
+```ts
+// Languages
+[Python] [JavaScript] [TypeScript] [SQL]
+
+// Frameworks & Libraries
+[React] [Next.js] [Node.js] [Express] [Django] [Tailwind CSS]
+
+// DevOps & Tools
+[Docker] [GitHub Actions] [PostgreSQL] [MongoDB] [AWS] [Linux] [VS Code]
