@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pernaol 👋</h1>
+<h1 align="center">Hi, I'm Abdullah Siddiqui 👋</h1>
 <p align="center">
   Full-Stack Developer | Software Engineer | Problem Solver
 </p>
