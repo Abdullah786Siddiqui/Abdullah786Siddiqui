@@ -46,10 +46,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah786Siddiqui&layout=compact&theme=tokyonight)
 
 ---
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdullah786Siddiqui&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abdullah786Siddiqui&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
----
