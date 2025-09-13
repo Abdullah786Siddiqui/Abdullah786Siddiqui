@@ -26,7 +26,7 @@
 
 **Frameworks / Libraries**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react)
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel)
